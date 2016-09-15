@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
+title: "Alistair Fisher - Portfolio"
+description: "Alistair's portfolio."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
 url: "http://www.jack003.com"
@@ -13,28 +13,28 @@ img_path: 'http://www.jack003.com/static/img/blog'
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
+  name: 'Alistair'
+  first_name: 'Alistair'
+  last_name: 'Fisher'
+  email: 'alistairstfisher@gmail.com'
   facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  github_username: 'AlistairFisher'
+  head_img: 'static/img/landing/Alistair.jpg'
 
 # social link
+#TODO: restore
 jingyu:
-  first_name: 'Yu'
-  last_name: 'Jing'
+  first_name: 'Alistair'
+  last_name: 'Fisher'
   description: 'Painter.'
   link: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+  email: 'alistairstfisher.com'
 
 # landing page
 landing:
   home: 'Home'
   about: 'About'
   career: 'Career'
-  skills: 'Skills'
   projects: 'Project'
   blog: 'Blog'
   link: 'Link'
@@ -67,11 +67,6 @@ index:
   database: 'Database'
   mac: 'Mac'
   life: 'Life'
-
-# donate
-donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
 
 # comment
 changyan:
